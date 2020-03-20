@@ -1,0 +1,33 @@
+.headers {
+  text-align: center;
+  color: aliceblue;
+}
+body {
+  background-color: rgba(0, 202, 168, 0.5);
+}
+.bold {
+  font-weight: bold;
+}
+.cursive {
+  font-style: italic;
+}
+.pointed {
+  text-decoration: underline;
+}
+.cross-out {
+  text-decoration: line-through;
+}
+.text {
+  background: red;
+  border: 3px solid rgb(166, 65, 225);
+}
+.scope {
+  border: 3px solid indigo;
+}
+.paragraph {
+  color: blueviolet;
+}
+.contents {
+  position: fixed;
+  right: 1px;
+}
