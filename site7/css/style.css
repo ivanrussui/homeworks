@@ -1,9 +1,6 @@
 * {
   box-sizing: border-box;
 }
-body {
-  font-family: 'Roboto', sans-serif;
-}
 .container {
   width: 1585px;
   height: 723px;
