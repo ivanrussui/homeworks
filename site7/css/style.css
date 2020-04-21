@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.container {
+  width: 1585px;
+  height: 723px;
+  background-color: #f9f9f9;
+  justify-content: center;
+}
+.background {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  width: 552px;
+  height: 31px;
+  color: #000000;
+  margin-top: 100px;
+  font-size: 36px;
+  font-weight: 400;
+}
+.box {
+  margin-top: 125px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.block1 {
+  width: 263px;
+  height: 210px;
+  background-color: #ffffff;
+  margin: 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn {
+  background-color: #f9f9f9;
+  width: 200px;
+  height: 55px;
+  border: 1px solid #23bac1;
+  font-size: 13px;
+  font-weight: 700;
+  color: #23bac1;
+  padding: 10px;
+}
+.text1 {
+  width: 84px;
+  height: 11px;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 300;
+}
+.text2 {
+  width: 79px;
+  height: 11px;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 300;
+}
+.text3 {
+  width: 130px;
+  height: 14px;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 300;
+}
+.text4 {
+  width: 63px;
+  height: 11px;
+  color: #000000;
+  font-size: 16px;
+  font-weight: 300;
+}
+.price {
+  width: 95px;
+  height: 15px;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 700;
+}
