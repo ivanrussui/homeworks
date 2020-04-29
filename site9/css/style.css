@@ -1,0 +1,12 @@
+.htext {
+text-align: center;
+text-transform: uppercase;
+margin-top: 70px;
+}
+.row {
+  margin-top: 82px;
+  display: flex;
+  text-align: center;
+  align-items: flex-end;
+  font-weight: bold;
+}
