@@ -1,0 +1,65 @@
+.menu span {
+  color: Indigo;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.menu p {
+  color: red;
+  font-size: 30px;
+}
+
+.img, .text {
+  color: purple;
+  font-family: sans-serif;
+}
+
+.main {
+  display: block;
+  font-size: 33px;
+  color: blue;
+}
+
+.main-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: 10px;
+}
+
+.main-image {
+  max-width: 100%;
+  margin-bottom: 10px;
+  color: green;
+}
+
+.main-buttons {
+  font-size: 33px;
+  text-align: right;
+  color: gold;
+}
+
+h4 {
+  color: aqua;
+}
+
+.text-c {
+  color: aqua;
+}
+
+h4 {
+  font-size: 40px;
+}
+
+.text-c {
+  font-size: 47px;
+  color: indigo;
+}
+/*# sourceMappingURL=style.css.map */
